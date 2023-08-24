@@ -1,0 +1,33 @@
+# Env and package
+.env
+.vscode
+*.whl
+build
+*.egg-info
+
+# Dataset
+*.npz
+
+# Models
+*.pth
+*.pickle
+
+# Compiled python
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Doc
+_build
+
+# Figures
+*.png
+*.jpg
+
+# Logs
+logs
+*.out
+*.nohup
+
+.idea

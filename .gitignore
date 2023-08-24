@@ -161,3 +161,23 @@ cython_debug/
 
 # nohup
 *.out
+
+experiments/*
+
+datasets/AustraliaRainfall/
+datasets/BenzeneConcentration/
+datasets/BIDMC32HR/
+datasets/BIDMC32RR/
+datasets/BIDMC32SpO2/
+datasets/Covid3Month/
+datasets/Electricity/
+datasets/FloodModeling1/
+datasets/FloodModeling2/
+datasets/FloodModeling3/
+datasets/HouseholdPowerConsumption1/
+datasets/HouseholdPowerConsumption2/
+datasets/IEEEPPG/
+datasets/LiveFuelMoistureContent/
+datasets/NewsHeadlineSentiment/
+datasets/NewsTitleSentiment/
+datasets/PPGDalia/
